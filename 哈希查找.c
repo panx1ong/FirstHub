@@ -15,8 +15,7 @@ Yes.
 No.
 Hint
  哈希吧， 骚年们。
-
-
+ 
 #include <stdio.h>
 #include <string.h>
 
